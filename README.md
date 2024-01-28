@@ -3,4 +3,4 @@
  
 <img src="https://64.media.tumblr.com/94e1715ff5312e7c45e268dab49e9362/tumblr_pioghrx7UL1v8hxmso1_500.gif" width="20" height="20"> pursuing computer science; cybersec., web dev., infrastructure
 
-<img src="https://i.pinimg.com/originals/25/1d/49/251d49935a0566be9ec2b29bde7ddfc7.gif" width="20" height="20"> part of the capstone program; ap seminar & ap research
+<img src="https://i.pinimg.com/originals/25/1d/49/251d49935a0566be9ec2b29bde7ddfc7.gif" width="20" height="20"> connect with me on discord: bobalatte. (dot included)
