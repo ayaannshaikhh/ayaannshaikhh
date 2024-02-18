@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/7cc4D3p.gif" width = "500" height="100">
+
 ### who am i?
 <img src="https://66.media.tumblr.com/ec7846fff3ee4b06ab26a686a3440738/tumblr_mjokr89jSG1rfjowdo1_500.gif" width="20" height="20"> senior ap high school student + social media manager
 
