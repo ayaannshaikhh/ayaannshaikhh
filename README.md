@@ -5,4 +5,4 @@
 
 <img src="https://cdn3.emoji.gg/emojis/7550-boombox.gif" width="20" height="20"> pursuing computer science; cybersec., web dev., infrastructure
 
-<img src="https://cdn3.emoji.gg/emojis/7550-pinkboombox.png" width="20" height="20"> discord: bobaldr
+<img src="https://cdn3.emoji.gg/emojis/7550-pinkboombox.png" width="20" height="20"> love music, especially ldr
