@@ -1,4 +1,4 @@
-cs student
+cs & psych student @ uofg
 
 
 – building experience in C, Java, Bash, HTML5/CSS
