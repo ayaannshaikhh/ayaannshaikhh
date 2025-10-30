@@ -4,7 +4,8 @@ CREATE DATABASE nonchalant;
 USE nonchalant;
 CREATE TABLE about_me (
   name        VARCHAR(20) DEFAULT 'Ayaan',
-  major       VARCHAR(40) DEFAULT 'Computer Science & Math @ Guelph',
+  major       VARCHAR(40) DEFAULT 'Honours Computer Science with Cybersecurity Specialization',
+  minor       VARCHAR(40) DEFAULT 'Mathematics with Emphasis in Discrete and Pure Mathematics',
   interests   TEXT        DEFAULT 'Networking, Data Science, Cybersecurity',
   languages   TEXT        DEFAULT 'C/C++, Java, Python, SQL, R, JavaScript',
   goal        VARCHAR(80) DEFAULT 'Get an internship... and build 🆒 things!'
