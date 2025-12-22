@@ -1,14 +1,21 @@
-![image](https://github.com/user-attachments/assets/d51c87cc-21f9-4905-9f65-df38fe7f2e03)
-```sql
-CREATE DATABASE nonchalant;
-USE nonchalant;
-CREATE TABLE about_me (
-  name        VARCHAR(20) DEFAULT 'Ayaan',
-  major       VARCHAR(40) DEFAULT 'Honours Computer Science with Cybersecurity Specialization',
-  minor       VARCHAR(40) DEFAULT 'Mathematics',
-  interests   TEXT        DEFAULT 'Networking, Data Science, Cybersecurity',
-  languages   TEXT        DEFAULT 'C/C++, Java, Python, SQL, R, JavaScript',
-  goal        VARCHAR(80) DEFAULT 'Get an internship... and build 🆒 things!'
-);
-```
-![image](https://github.com/user-attachments/assets/d51c87cc-21f9-4905-9f65-df38fe7f2e03)
+# Hi, my name is Ayaan! <img src="https://cdn.discordapp.com/emojis/1110661639507824711.webp?size=240" width="35" height="35">
+I'm currently a second-year computer science student specializing in cybersecurity with a minor in mathematics. I'm avid about machine learning, artificial intelligence, cybersecurity and full-stack development! 
+
+Some things I've built include:
+
+↳ 🛡️ <ins><b>Aegis</b></ins> 
+> An anomaly-based intrusion detection system designed to detect unusual network traffic patterns.
+> 
+> <b>Tech Stack:</b> Python, NumPy, Scapy, scikit-learn
+
+↳ 🩻 <ins><b>Diagnosica</b></ins>
+> A medical image diagnosis assistant focused on brain tumour detection using deep learning.
+> 
+> <b>Tech Stack:</b> Python, Flask, TensorFlow, Keras, HTML/CSS
+
+↳ 🌺 <ins><b>Bloomfund</b></ins> (built for <b>Anthropic AI x UofT AI x Blueprint Hackathon</b>)
+> A personalized tool designed to help students find scholarships that match their background, skills and goals using Claude AI.
+> 
+> <b>Tech Stack:</b> Python, FastAPI, PostgreSQL, TypeScript, Next.js
+
+Feel free to check out my repositories and give feedback on how I can improve my projects!
