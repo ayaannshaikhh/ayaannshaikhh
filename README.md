@@ -29,7 +29,7 @@ I'm currently a second-year computer science student specializing in cybersecuri
 ↳ 🌺 <ins><b>Bloomfund</b></ins> (built for <b>Anthropic AI x UofT AI x Blueprint Hackathon</b>)
 > A personalized tool designed to help students find scholarships that match their background, skills and goals using Claude AI.
 > 
-> <b>Tech Stack:</b> Python, FastAPI, PostgreSQL, TypeScript, Next.js
+> <b>Tech Stack:</b> Python, FastAPI, PostgreSQL, Supabase, Anthropic Claude
 
 <br></br>
 Feel free to check out my repositories and give feedback on how I can improve my projects!
