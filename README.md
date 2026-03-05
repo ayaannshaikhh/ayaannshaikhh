@@ -1,51 +1,20 @@
+<div align="center">
+    <img alt="Logo" src="avatar.png" width="100" />
+</div>
+<div align="center">
+    <h1>Hi, my name is Ayaan!</h1>
+    I'm currently a second-year computer science student specializing in cybersecurity with a minor in mathematics. I'm avid about machine learning, artificial intelligence, cybersecurity and full-stack development!<br><br>
+</div>
 
-<img src="https://64.media.tumblr.com/2e933a69c586158aec09256fa9259ae2/4c03cf772ce7f671-11/s2048x3072/067f29c1ba761d313ec0abca6db06cf9f54d485d.pnj">
-<img src="https://64.media.tumblr.com/60b3f6063c94b4e79361c5902dbe92a8/4c03cf772ce7f671-f6/s2048x3072/3ebc9b3981ce41811bc1f10d33366d0121355815.pnj">
+# <img src="https://cdn.discordapp.com/emojis/958968073984016404.png" width="30"/> Tech Stack
+## Programming Languages
+<img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" width="40"/> <img alt="Java" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40"/> <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40"/> <img alt="JS" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="40"/> <img alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" width="40"/> <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/500px-HTML5_logo_and_wordmark.svg.png" width="40"/> <img alt="CSS" src="https://www.superbefilms.com/wp-content/uploads/2016/03/css-logo.png" width="40"/> <img alt="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/250px-Ruby_logo.svg.png" width="40"/>
 
-# Hi, my name is Ayaan! <img src="https://cdn.discordapp.com/emojis/1110661639507824711.webp?size=240" width="35" height="35">
-I'm currently a second-year computer science student specializing in cybersecurity with a minor in mathematics. I'm avid about machine learning, artificial intelligence, cybersecurity and full-stack development!
+## Frameworks & Libraries
+<img alt="FastAPI" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/>  <img alt="Flask" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2389%2FPNG%2F512%2Fflask_logo_icon_145276.png&id=145276&pack_or_individual=pack" width="40"/>  <img alt="TensorFlow" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40"/>  <img alt="Keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/> <img alt="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/>  <img alt="Next.js" src="https://cdn.creazilla.com/icons/3254134/nextjs-icon-icon-sm.png" width="40"/>  <img alt="Node.js" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-svg-download-png-3030179.png" width="40"/>  <img alt="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40"/>
 
-<img src="https://64.media.tumblr.com/7ce376a9554ac8d4d2ff73cc6e351865/4c03cf772ce7f671-db/s2048x3072/76d3ad5840c45902dbbe868229787c846c7a850e.pnj">
+### <img alt="Question" src="https://cdn.discordapp.com/emojis/1008468088804618260.gif" width="30"/> **Want to get to know more about me?** 
+> Check out my portfolio: https://www.ayaanshaikh.ca
 
-```sql
-CREATE DATABASE me;
-USE me;
-CREATE TABLE skills (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(50),
-    type VARCHAR(30)
-);
-INSERT INTO skills (name, type)
-VALUES
-('Python', 'Programming Language'),
-('Java', 'Programming Language'),
-('C', 'Systems Programming'),
-('SQL', 'Database'),
-('JavaScript', 'Web'),
-('HTML/CSS', 'Frontend');
-```
-<img src="https://64.media.tumblr.com/7ce376a9554ac8d4d2ff73cc6e351865/4c03cf772ce7f671-db/s2048x3072/76d3ad5840c45902dbbe868229787c846c7a850e.pnj">
-
-## **<ins>Personal Projects</ins>**
-
-↳ 🧠 <ins><b>Parkisense</b></ins> (**ongoing**)
-> A computer vision–based machine learning system that analyzes hand movement videos to detect Parkinsonian tremors.
-> 
-> <b>Tech Stack:</b> Python, OpenCV, MediaPipe, TensorFlow, LSTM, NumPy, Streamlit
-
-↳ 🛡️ <ins><b>Aegis</b></ins> (**ongoing**)
-> An anomaly-based intrusion detection system designed to detect unusual network traffic patterns.
-> 
-> <b>Tech Stack:</b> Python, NumPy, Scapy, scikit-learn
-
-↳ 🩻 <ins><b>Diagnosica</b></ins>
-> A medical image diagnosis assistant focused on brain tumour detection using deep learning.
-> 
-> <b>Tech Stack:</b> Python, Flask, TensorFlow, Keras, HTML/CSS
-
-↳ 🌺 <ins><b>Bloomfund</b></ins>
-> A personalized tool designed to help students find scholarships that match their background, skills and goals using Claude AI.
-> 
-> <b>Tech Stack:</b> Python, FastAPI, PostgreSQL, Supabase, Anthropic Claude
-<img src="https://64.media.tumblr.com/60b3f6063c94b4e79361c5902dbe92a8/4c03cf772ce7f671-f6/s2048x3072/3ebc9b3981ce41811bc1f10d33366d0121355815.pnj">
-<img src="https://64.media.tumblr.com/cc3713193d1d180d060c70ff3ac314b1/4c03cf772ce7f671-74/s2048x3072/9d5a65d1dfef1c5794acb51c60e3db28d6c82edb.pnj">
+### <img alt="Question" src="https://cdn.discordapp.com/emojis/1008463027881910335.gif" width="30"/> **Want to get in contact?** 
+> Email me: `contact@ayaanshaikh.ca`
